@@ -50,3 +50,4 @@ My name is Tyler Sefcovic and I am in my third year of college at the University
 
 To defend an engineering decision is to present the reasons as to why you made a decision over another when it comes to the design you are working on. It consists of presenting the constraints to those that are asking about it, then walking them through the process that you went through yourself in order for the person asking you questions to understand why you did what you did. 
 
+I worked on this project for 5 hours.
