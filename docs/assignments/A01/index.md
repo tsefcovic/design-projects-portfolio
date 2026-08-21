@@ -17,6 +17,14 @@ Patent number: US20070067995A1
 
 Author: Hector Alfaro
 
+<figure>
+  <img src="IMG_2314.jpeg" alt="IMG_2314.jpeg">
+</figure>
+
+<figure>
+  <img src="IMG_2315.jpeg" alt="IMG_2315.jpeg">
+</figure>
+
 The geometry of each component of the clippers is critical to the functionality. If the lever isn’t bent then you would have to manually pinch the jaws together with your fingers. If the pin connecting everything isn’t round it would bind and be much more difficult to use. If the jaw didn’t have a land for the sharp edge to land on there would be a lot more flex, so it wouldn’t cut as good. 
 
 There are several possible alternatives to nail clippers. You could use a pair of scissors, while it wouldn’t work as well and definitely wouldn’t be a user-friendly experience, it would work. Secondly you could use your hands to just pick your nails, it definitely wouldn’t leave near as nice of a result, however it would get the job done. 
