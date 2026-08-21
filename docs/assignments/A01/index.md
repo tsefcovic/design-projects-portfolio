@@ -4,10 +4,31 @@
 
 
 ## Analyze
+https://nhoong.github.io/ 
+
+This example of an engineering portfolio is an extremely solid example as to what an engineering portfolio is supposed to be. It is easy to navigate, as everything is labeled clearly and is well organized. It does lack slightly when it comes to the documentation of several projects, however the remaining are extremely well documented. The lack of documentation on several of the projects does lead to a lack of clarity on the decision-making process involved. The language used in the portfolio is professional and clear. 
+
+https://allisterjsequeira.github.io/fsae%20chassis.html
+
+This is another solid example of an engineering portfolio. It is easy to navigate as the sections are separated out from one another while being clearly labeled. The documentation for each project is extremely detailed. This makes identifying and understanding why decisions were made the way that they were a simple process. All of the language used is professional while remaining easy to read. 
+For my mechanical product I selected nail clippers. This is a product that uses a lever arm in order to close a pair of cutting jaws in order to cut nails placed between them. The governing model of the product is mechanical advantage. The variables involved with the mechanical advantage would be the force being applied, and the length of the lever arm. 
+ 
+Patent number: US20070067995A1
+Author: Hector Alfaro
+The geometry of each component of the clippers is critical to the functionality. If the lever isn’t bent then you would have to manually pinch the jaws together with your fingers. If the pin connecting everything isn’t round it would bind and be much more difficult to use. If the jaw didn’t have a land for the sharp edge to land on there would be a lot more flex, so it wouldn’t cut as good. 
+There are several possible alternatives to nail clippers. You could use a pair of scissors, while it wouldn’t work as well and definitely wouldn’t be a user-friendly experience, it would work. Secondly you could use your hands to just pick your nails, it definitely wouldn’t leave near as nice of a result, however it would get the job done. 
+There are several key geometric decisions that make nail clippers work. In figure one you can se part 28 which is critical to the function of the clippers. If that length is changed, or if you remove the step and make it just a straight piece of metal, it largely changes the ergonomics. 
+One design decision that I can see is the flat “step” on the main lever. I think that this is done because this step allows for easy single-handed use of the clippers which is very important. 
 
 
 ## Decide
 
 
 ## Communicate
+My name is Tyler Sefcovic and I am in my third year of college at the University of North Carolina at Charlotte. I am currently pursuing a degree in mechanical engineering with a motorsports concentration. From an early age I have been involved in motorsports which has fostered my passion for cars as well as learning how mechanical systems work. It also allowed me to gain hands on experience working with mechanical systems.  My interest in engineering was cemented after speaking to an engineer of a performance component company at a racing chassis school, and found UNC Charlotte soon after. The opportunity to follow an academic path that targets motorsports has been extremely special. It has been extremely fulfilling to be able to tie my past experiences in racing as well as working in construction into the work that I am doing for classes. As I continue to work towards my degree, I will continue to use my background to ensure that I design with serviceability and manufacturability in mind. I also use the fact that I have extensive experience working around the basic engineering concepts to my advantage. Having spent years working to fabricate, repair, and maintain systems, I understand the importance of maintenance when it comes to future success especially when dealing with mechanical components. I am also a member of the school’s formula SAE team. On the SAE team I have had the opportunity to work as a member of both the chassis and powertrain sub teams. This has allowed me to take concepts directly from my classes and apply them to the real world throughout my time in college. 
+
+"What does it mean to defend an engineering decision : and do you currently know how to do it?" 
+
+
+To defend an engineering decision is to present the reasons as to why you made a decision over another when it comes to the design you are working on. It consists of presenting the constraints to those that are asking about it, then walking them through the process that you went through yourself in order for the person asking you questions to understand why you did what you did. 
 
