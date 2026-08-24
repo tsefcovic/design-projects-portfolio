@@ -34,7 +34,7 @@ One design decision that I can see is the flat “step” on the main lever. I t
 
 This page serves as a record of my time in MEGR 2156. It contains the process as well as finished product. It contains the calculations as well as CAD files for a variety of assignments that are completed throughout the course of a semester
 
-I also enabled the integrated table of contents because it moves everything navigation wise to the left side. This makes it to where the user isn’t looking back and forth across their screen. This makes navigation not only easier but more efficient. 
+I enabled the integrated table of contents because it moves everything navigation wise to the left side. This makes it to where the user isn’t looking back and forth across their screen. This makes navigation not only easier but more efficient. 
 
 I commit to documenting my work to a level where someone could look at it and understand what I have done with minimal if any questions.
 
