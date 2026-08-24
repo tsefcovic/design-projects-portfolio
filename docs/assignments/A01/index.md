@@ -39,9 +39,3 @@ I commit to documenting my work to a level where someone could look at it and un
 
 ## Communicate
 
-"What does it mean to defend an engineering decision : and do you currently know how to do it?" 
-
-
-To defend an engineering decision is to present the reasons as to why you made a decision over another when it comes to the design you are working on. It consists of presenting the constraints to those that are asking about it, then walking them through the process that you went through yourself in order for the person asking you questions to understand why you did what you did. 
-
-I worked on this project for 6 hours.
