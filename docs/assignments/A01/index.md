@@ -36,6 +36,8 @@ This page serves as a record of my time in MEGR 2156. It contains the process as
 
 I enabled navigation tabs which moves the top level navigation to the top of the page. This allows the user to do less scrolling. This then means that they can get where they want to go on the page faster and more efficiently. 
 
+I also enabled the integrated table of contents because it moves everything navigation wise to the left side. This makes it to where the user isn’t looking back and forth across their screen. This makes navigation not only easier but more efficient. 
+
 I commit to documenting my work to a level where someone could look at it and understand what I have done with minimal if any questions.
 
 ## Communicate
@@ -45,4 +47,4 @@ I commit to documenting my work to a level where someone could look at it and un
 
 To defend an engineering decision is to present the reasons as to why you made a decision over another when it comes to the design you are working on. It consists of presenting the constraints to those that are asking about it, then walking them through the process that you went through yourself in order for the person asking you questions to understand why you did what you did. 
 
-I worked on this project for 5 hours.
+I worked on this project for 6 hours.
