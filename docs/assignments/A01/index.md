@@ -17,13 +17,9 @@ Patent number: US20070067995A1
 
 Author: Hector Alfaro
 
-<figure>
-  <img src="IMG_2314.jpeg" alt="IMG_2314.jpeg">
-</figure>
+<img width="3024" height="4032" alt="IMG_2315" src="https://github.com/user-attachments/assets/c78b289a-f79d-4eaa-b492-75ff7ac11afd" />
 
-<figure>
-  <img src="IMG_2315.jpeg" alt="IMG_2315.jpeg">
-</figure>
+<img width="3024" height="4032" alt="IMG_2314" src="https://github.com/user-attachments/assets/550d43a4-e6fa-4fc3-be00-29660d8507bf" />
 
 The geometry of each component of the clippers is critical to the functionality. If the lever isn’t bent then you would have to manually pinch the jaws together with your fingers. If the pin connecting everything isn’t round it would bind and be much more difficult to use. If the jaw didn’t have a land for the sharp edge to land on there would be a lot more flex, so it wouldn’t cut as good. 
 
