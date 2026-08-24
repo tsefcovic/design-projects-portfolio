@@ -9,6 +9,11 @@ theme:
     - navigation.instant
     - navigation.tracking
 
+theme:
+  name: material
+  features:
+    - toc.integrate
+
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
