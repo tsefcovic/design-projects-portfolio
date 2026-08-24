@@ -11,6 +11,9 @@ theme:
 
 theme:
   name: material
+  palette:
+    primary: green
+    accent: light green
   features:
     - toc.integrate
 
