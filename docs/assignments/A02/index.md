@@ -34,6 +34,7 @@ I was then able to take these cross sections and calculate the weight of the tru
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+
 I selected a design that triangulates everything by placing a triangle in the middle of the trapezoidal shape made by the points we are given. This is a common design that I have seen it in the real world very often. Also it reduces the amount of members some while maintaining strength. 
 
 ## Communicate
