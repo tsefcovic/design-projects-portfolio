@@ -38,4 +38,7 @@ _Which geometry did you select, and why? This is your first open design choice i
 I selected a design that triangulates everything by placing a triangle in the middle of the trapezoidal shape made by the points we are given. This is a common design that I have seen it in the real world very often. Also it reduces the amount of members some while maintaining strength. 
 
 ## Communicate
-Through this assignment I learned how to apply the topics that I have learned in previous classes like statics and use them to actually design an entire system. This assignment took me around 8 hours many of which were due to me reworking my CAD after not being content with how it came out originally. 
+Through this assignment I learned how to apply the topics that I have learned in previous classes like statics and use them to actually design an entire system. This assignment took me around 8 hours many of which were due to me reworking my CAD after not being content with how it came out originally. Attached below is my CAD files:
+
+[truss.zip](https://github.com/user-attachments/files/31666651/truss.zip)
+
