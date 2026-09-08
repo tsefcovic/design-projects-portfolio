@@ -34,3 +34,4 @@ After calculating the stress if a hole with a diameter of 0.060 in was drilled i
 
 ## Communicate
 This project helped me to learn how to do FEA in SolidWorks. It took me 3 hours.  
+Cad:[Beam for FEA (SolidWorks Part)](./Beam%20for%20FEA.SLDPRT) 
