@@ -35,5 +35,7 @@ Unknowns: Thickness of the member.
 
 <img width="566" height="371" alt="Screenshot 2026-09-14 182508" src="https://github.com/user-attachments/assets/3dc91490-47df-47f3-bb1c-28c89399d112" />
 
+Due to the fact that deflection of member 2 was the larger of the two values of the member that I solved for, it is what I used in order to meet both requirements. While I used the number that I solved for stress on member 1 as it was the larger of the two values. 
+
 ## Communicate
 Through this assignment I learned how to perform basic calculations for a cantilever beam. This assignment took me 3 hours to complete. 
