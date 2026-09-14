@@ -27,6 +27,7 @@ Unknowns: Thickness of the member.
 I went through the beam calculations that we covered in class and plugged in values that were provided for both the stress and deflection calculations. 
 
 **Feature 2**
+
 Then I calculated the thickness using the same process I used for Feature 1. 
 
 Knowns: 300 N force applied to the end of the motor shaft that is 16 mm long. The modulus of elasticity of PETG is 2300 MPa and the yield stress is 50 MPa, the member is 35 mm long
