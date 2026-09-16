@@ -40,3 +40,5 @@ Due to the fact that deflection of member 2 was the larger of the two values of 
 
 ## Communicate
 Through this assignment I learned how to perform basic calculations for a cantilever beam. This assignment took me 3 hours to complete. 
+
+CAD: [Download Motor Mount CAD Model](./Motor%20Mount.SLDPRT)
