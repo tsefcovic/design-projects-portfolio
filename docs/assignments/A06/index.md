@@ -37,5 +37,6 @@ For the Top flange with the strength requirement value of 0.79 inches. To input 
 
 I applied tighter tolerances to the entirety of the dimensions that impacted the mating surfaces between the bracket and the T beam. This would ensure that a sliding fit would be ensured on all parts within tolerance of a worst case schenario from both components. The rest of the model is significantly less tightly toleranced. This is because the rest of the diminsions don't affect the fit. This means that they can be less dimensionally accurate to the design but still function entirely as intended. 
 
-CAD:
+CAD: 
+
 Drawing: 
