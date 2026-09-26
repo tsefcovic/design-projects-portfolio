@@ -39,4 +39,4 @@ I applied tighter tolerances to the entirety of the dimensions that impacted the
 
 CAD: docs/assignments/A06/Bracket.SLDPRT 
 
-Drawing: 
+Drawing: docs/assignments/A06/Bracket.SLDDRW
