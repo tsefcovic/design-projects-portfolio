@@ -24,12 +24,18 @@ I then modeled what I designed last week with some small edits into Solidworks. 
 <img width="1130" height="717" alt="Screenshot 2026-09-26 131519" src="https://github.com/user-attachments/assets/e4fcb69c-8d9b-4fb1-812a-39175f2d8cf8" />
 
 
-
-
 **CAD Drawing**
-I then used the model that I created to make a 3 view drawing of the part still utilizing Solidworks. 
+I then used the model that I created to make a 3 view drawing of the part still utilizing Solidworks. Here I inserted different views and added dimensions to each as they applied to the model, until I was confident that I could reproduce the model with no other information if handed the drawing that was creating. 
 
 
 
 ## Communicate
 
+**Reflection** 
+
+For the Top flange with the strength requirement value of 0.79 inches. To input this to the model I utilized a global variable. This paired with the other calculated values being global variables, it was simple to make a model that is capable of updating to values being changed without having to go through the entirety of the model. 
+
+I applied tighter tolerances to the entirety of the dimensions that impacted the mating surfaces between the bracket and the T beam. This would ensure that a sliding fit would be ensured on all parts within tolerance of a worst case schenario from both components. The rest of the model is significantly less tightly toleranced. This is because the rest of the diminsions don't affect the fit. This means that they can be less dimensionally accurate to the design but still function entirely as intended. 
+
+CAD:
+Drawing: 
