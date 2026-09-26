@@ -2,11 +2,33 @@
 
 ## Objective
 
+Create an easy to read and accurate drawing of the bracket that was designed in the last assignment.
 
 ## Analyze
 
+  **Reworked Math**
+  
+The first thing that I did was rework some of the math that I did for the previous assignment. I did this because I did the last assignment in a rush, leading to work that I wasn't entirely happy with and led to me overlooking some factors that I wasn't happy with. 
+
+<img width="278" height="107" alt="Screenshot 2026-09-26 123016" src="https://github.com/user-attachments/assets/8f5cb826-cdd8-43ab-b804-aa7533272488" />
+<img width="341" height="53" alt="Screenshot 2026-09-26 131821" src="https://github.com/user-attachments/assets/11d04191-1010-4a7e-8f07-dd9973390bf0" />
+<img width="140" height="77" alt="Screenshot 2026-09-26 131932" src="https://github.com/user-attachments/assets/d4dfb561-dbbb-481e-bcd7-931a06739ca6" />
+<img width="241" height="136" alt="Screenshot 2026-09-26 131921" src="https://github.com/user-attachments/assets/97768327-f880-4cdc-80e9-e2f307c1c314" />
+<img width="318" height="137" alt="Screenshot 2026-09-26 131844" src="https://github.com/user-attachments/assets/15bf2956-c383-441d-9a9b-27292e2a5745" />
 
 ## Decide
+  **CAD Modeling**
+  
+I then modeled what I designed last week with some small edits into Solidworks. I used global variables so that if I found anything else that I wasn't happy with I could easily change the model. I added some fillets to the model as I have some experience with Solidworks and know that fillets often are used to help the manufacturability of a part. This is something that I hope to focus on as I am comfortable with the software itself but could use more practice with ensuring the components I design are actually able to be produced. 
+
+<img width="1130" height="717" alt="Screenshot 2026-09-26 131519" src="https://github.com/user-attachments/assets/e4fcb69c-8d9b-4fb1-812a-39175f2d8cf8" />
+
+
+
+
+**CAD Drawing**
+I then used the model that I created to make a 3 view drawing of the part still utilizing Solidworks. 
+
 
 
 ## Communicate
