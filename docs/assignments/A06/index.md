@@ -6,7 +6,7 @@ Create an easy to read and accurate drawing of the bracket that was designed in 
 
 ## Analyze
 
-  **Reworked Math
+  **Reworked Math**
   
 The first thing that I did was rework some of the math that I did for the previous assignment. I did this because I did the last assignment in a rush, leading to work that I wasn't entirely happy with and led to me overlooking some factors that I wasn't happy with. 
 
@@ -17,14 +17,14 @@ The first thing that I did was rework some of the math that I did for the previo
 <img width="318" height="137" alt="Screenshot 2026-09-26 131844" src="https://github.com/user-attachments/assets/15bf2956-c383-441d-9a9b-27292e2a5745" />
 
 ## Decide
-  **CAD Modeling
+  **CAD Modeling**
   
 I then modeled what I designed last week with some small edits into Solidworks. I used global variables so that if I found anything else that I wasn't happy with I could easily change the model. I added some fillets to the model as I have some experience with Solidworks and know that fillets often are used to help the manufacturability of a part. This is something that I hope to focus on as I am comfortable with the software itself but could use more practice with ensuring the components I design are actually able to be produced. 
 
 <img width="1130" height="717" alt="Screenshot 2026-09-26 131519" src="https://github.com/user-attachments/assets/e4fcb69c-8d9b-4fb1-812a-39175f2d8cf8" />
 
 
-**CAD Drawing
+**CAD Drawing**
 
 I then used the model that I created to make a 3 view drawing of the part still utilizing Solidworks. Here I inserted different views and added dimensions to each as they applied to the model, until I was confident that I could reproduce the model with no other information if handed the drawing that was creating. 
 
@@ -32,7 +32,7 @@ I then used the model that I created to make a 3 view drawing of the part still 
 
 ## Communicate
 
-**Lessons Learned
+**Lessons Learned**
 
 For the Top flange with the strength requirement value of 0.79 inches. To input this to the model I utilized a global variable. This paired with the other calculated values being global variables, it was simple to make a model that is capable of updating to values being changed without having to go through the entirety of the model. 
 
