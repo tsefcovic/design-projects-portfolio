@@ -31,7 +31,7 @@ I then used the model that I created to make a 3 view drawing of the part still 
 
 ## Communicate
 
-##Lessons Learned
+**Lessons Learned**
 
 For the Top flange with the strength requirement value of 0.79 inches. To input this to the model I utilized a global variable. This paired with the other calculated values being global variables, it was simple to make a model that is capable of updating to values being changed without having to go through the entirety of the model. 
 
@@ -41,4 +41,6 @@ I spent 2 hours working on this project.
 
 CAD: [docs/assignments/A06/Bracket.SLDPRT ](https://github.com/tsefcovic/design-projects-portfolio/blob/3f4e0199f093cb8b762515739579076767e11ad9/docs/assignments/A06/Bracket.SLDPRT)
 
-Drawing: [docs/assignments/A06/Bracket.SLDDRW](https://github.com/tsefcovic/design-projects-portfolio/blob/ac80b2c52ab218d5bc6199a06900237a69ebf19a/docs/assignments/A06/Bracket.SLDDRW)
+Drawing: [docs/assignments/A06/Bracket.SLDDRW](https://github.com/tsefcovic/design-projects-portfolio/blob/ac80b2c52ab218d5bc6199a06900237a69ebf19a/docs/assignments/A06/Bracket.SLDDRW) 
+
+
