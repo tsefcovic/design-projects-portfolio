@@ -25,6 +25,7 @@ I then modeled what I designed last week with some small edits into Solidworks. 
 
 
 **CAD Drawing
+
 I then used the model that I created to make a 3 view drawing of the part still utilizing Solidworks. Here I inserted different views and added dimensions to each as they applied to the model, until I was confident that I could reproduce the model with no other information if handed the drawing that was creating. 
 
 
