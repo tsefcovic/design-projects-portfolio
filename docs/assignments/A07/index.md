@@ -28,7 +28,8 @@ For the third iteration I once again increased the diameter of the pin mount. I 
 
 <img width="836" height="473" alt="Screenshot 2026-10-24 155522" src="https://github.com/user-attachments/assets/e4ee7322-35cd-4238-adb8-0a48c3559c69" />
 <img width="887" height="635" alt="Screenshot 2026-10-24 155503" src="https://github.com/user-attachments/assets/52c9d371-5303-4025-adbe-24df1e350b06" />
-<img width="914" height="544" alt="Screenshot 2026-10-24 152220" src="https://github.com/user-attachments/assets/fb059697-73c1-4ce9-bcca-c5d70bc50f19" />
+<img width="895" height="586" alt="Screenshot 2026-10-24 162016" src="https://github.com/user-attachments/assets/d8e49935-9f3f-45f0-960a-61d63d51df5a" />
+
 
 
 ## Decide
