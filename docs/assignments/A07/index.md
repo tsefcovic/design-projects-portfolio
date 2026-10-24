@@ -38,4 +38,7 @@ This proved to be a good decision as when I ran the sims stress was well below t
 I learned how to apply geometry changes based on results of FEA simulations in order to produce a part that meets assigned criteria. I spent around 2.5 hours working on this assignment. 
 
 CAD:
+https://github.com/tsefcovic/design-projects-portfolio/blob/9fecb93b3f647acbd79f8d71e3130048026fd0f7/docs/assignments/A07/Bracket%20(1).SLDPRT 
+
+
 
