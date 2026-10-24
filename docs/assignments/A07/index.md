@@ -39,6 +39,6 @@ I learned how to apply geometry changes based on results of FEA simulations in o
 
 CAD:
 https://github.com/tsefcovic/design-projects-portfolio/blob/9fecb93b3f647acbd79f8d71e3130048026fd0f7/docs/assignments/A07/Bracket%20(1).SLDPRT 
-
+https://github.com/tsefcovic/design-projects-portfolio/blob/eadb3d1045a4c157a214d7b1249922ec0c395cd6/docs/assignments/A07/Bracket%20v2.SLDPRT
 
 
