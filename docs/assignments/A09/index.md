@@ -31,5 +31,6 @@ The holes are 3/8 to allow the bearings to fit.
 
 ## Communicate
 I learned more about how to do the math behind these simple dynamic systems. I learned a lot from the section where I had to solve for the belt. I had never done anything like this before so it was interesting to work with. I spent quite a bit of time becoming somewhat familiar with the equations that I needed to use. Due to this that was what I spent the most time on. After I got through that section I was able to move forward pretty quickly. Overall I spent around 4 hours working on this project. 
-CAD: 
+
+CAD: https://github.com/tsefcovic/design-projects-portfolio/blob/5ce2576eabf3841ea801273995bc5d2026042c08/docs/assignments/A09/Pulley%20Mount.SLDPRT 
 
