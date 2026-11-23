@@ -36,7 +36,7 @@ I spent approximately 4.5 hours on my section. I learned how to apply shear stre
 
 CAD: 
 
-docs/assignments/a11/Motormount.SLDPRT 
+[docs/assignments/a11/Motormount.SLDPRT ](https://github.com/tsefcovic/design-projects-portfolio/blob/7e84d85575d176c689a9850cdfd7fbc83b3df923/docs/assignments/a11/Motormount.SLDPRT)
 
 https://github.com/tsefcovic/design-projects-portfolio/blob/33511bcacec82439a052d2623aab6f596cbd6f31/docs/assignments/a11/Coupler.SLDPRT 
 
