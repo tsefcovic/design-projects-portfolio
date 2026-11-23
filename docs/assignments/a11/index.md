@@ -35,3 +35,8 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 I spent approximately 4.5 hours on my section. I learned how to apply shear stress calculations to a system in order to ensure designed parts meet given design parameters. 
 
 CAD: 
+
+docs/assignments/a11/Motormount.SLDPRT 
+
+
+
