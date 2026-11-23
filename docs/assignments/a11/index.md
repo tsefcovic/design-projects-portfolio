@@ -33,6 +33,7 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 
 ## Communicate
 I spent approximately 4.5 hours on my section. I learned how to apply shear stress calculations to a system in order to ensure designed parts meet given design parameters. 
+The selected motor is https://www.mcmaster.com/4801N11/ 
 
 CAD: 
 
